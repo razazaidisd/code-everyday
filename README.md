@@ -1,4 +1,4 @@
-# code-everyday
+# Code Everyday
 Its like a breakfast, try something new which you have never before. JS Lover
 
 ## Object Oriented JS - ES5
