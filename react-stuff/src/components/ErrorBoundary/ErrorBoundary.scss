@@ -1,0 +1,22 @@
+.error-boundary {
+  margin: 20px;
+  background: #efefef;
+  padding: 5px 15px;
+  box-shadow: 1px 3px 4px #999;
+  border: 1px dotted #999;
+  border-radius: 4px;
+
+  details {
+    display: inline-block;
+    width: 100%;
+  }
+  h4 {
+    font-size: 15px;
+    b {
+      text-transform: capitalize;
+    }
+  }
+  .error-trace {
+    color: #ff0000;
+  }
+}
